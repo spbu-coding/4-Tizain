@@ -6,3 +6,4 @@ set(CMAKE_C_STANDARD 11)
 include_directories(.)
 
 add_executable(converter src/converter.c src/negative.c src/qdbmp.c)
+add_executable(comparer src/comparer.c)

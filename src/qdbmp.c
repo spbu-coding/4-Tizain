@@ -1,4 +1,5 @@
 #include "qdbmp.h"
+//#include "negative.h"
 #include <stdlib.h>
 #include <string.h>
 
